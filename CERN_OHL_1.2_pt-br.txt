@@ -1,0 +1,207 @@
+# CERN Open Hardware License v1.2 - Tradução para o Português
+
+Versão original: [http://www.ohwr.org/licenses/cern-ohl/v1.2]
+
+This is an unofficial Portuguese translation of the CERN Open Hardware License. 
+This version **is intended for reference only**, not for actual use. If you 
+want to license your projects using it, please use the official license providedin the official repository of the CERN OHL in the link above.
+
+Esta é uma tradução não-oficial para o Português da licença de Hardware Aberto
+do CERN. Esta versão serve **apenas de referência** não para utilização. Se
+você deseja utilizar esta licença em seus projetos, por favor empregue a versão 
+original da licença disponível no repositório oficial através do endereço acima.
+
+---
+
+2013-09-06 - CERN, Genebra, Suiça
+
+Licença de Hardware Aberto do CERN v1.2
+
+Preâmbulo
+
+Através desta Licença de Hardware Aberto do CERN, doravante "CERN OHL" versão
+1.2, o CERN tem por objetivo fornecer uma ferramenta para promover o 
+compartilhamento e a colaboração entre designers de hardware. Todos são 
+bem-vindos para utilizar a CERN OHL, apenas em sua forma não-modificada, para 
+a distribuição de seus próprios designs de hardware aberto. Qualquer outro 
+direito é reservado.
+
+A publicação de designs de hardware sob a CERN OHL não constitui endosso por 
+parte do Licenciador, e não implica qualquer envolvimento do CERN no
+desenvolvimento de tais designs.
+
+1. Definições
+
+Nesta Licença, os termos a seguir possuem os seguintes significados:
+
+"Licença" significa a própria CERN OHL.
+
+"Documentação" significa diagramas esquemáticos, designs, circuitos ou leiautes
+de placas de circuitos, desenhos mecânicos, fluxogramas e texto descritivo, e
+outro material explanatório que seja explicitamente declarado como tendo sido
+publicado sob os termos desta Licença. A Documentação pode estar em quaisquer
+meios, incluindo, mas não limitado à arquivos de computador e representações
+em papel, filme, ou qualquer outra mídia.
+
+"Localização da Documentação" significa onde o Licenciador colocou a 
+Documentação, a qual ele acredita que estará publicamente acessível por, pelo
+menos, três anos a partir da primeira comunicação feita ao público ou da 
+distribuição da Documentação.
+
+"Produto" significa tanto um dispositivo inteiro, ou qualquer parte dele, 
+construído com base na Documentação ou na Documentação modificada.
+
+"Licenciado" significa qualquer pessoa natural ou legal exercendo direitos sob
+esta Licença.
+
+"Licenciador" significa qualquer pessoa natural ou legal que cria ou modifica a
+Documentação e subsequentemente comunica ao público e/ou distribui a
+Documentação resultante sob os termos e condições desta Licença.
+
+Um Licenciado pode ser ao mesmo tempo um Licenciador e vice-e-versa.
+
+A utilizacao do gênero masculino no texto inclui os genêros feminino e neutro e 
+é empregado para facilitar a leitura.
+
+2. Aplicabilidade 
+
+2.1. Esta Licença regula o uso, a cópia, a modificação, a comunicação
+para o público e a distribuição da Documentação, e a fabricação e distribuição 
+de Produtos. Ao exercer quaisquer direitos garantidos sob esta Licença, o
+Licenciado irrevogavelmente aceita estes termos e condições.
+
+2.2. Esta Licença é outorgada pelo Licenciador diretamente ao Licenciado e deve
+ser aplicada mundialmente sem limitação de tempo. O Licenciado pode ceder seus 
+direitos de licença ou conceder sub-licenças.
+
+2.3. Esta Licença não se extende ao software, firmware, ou código carregado em
+dispositivos programáveis que podem ser utilizados em conjunto com a 
+Documentação, Documentação modificada ou com Produtos, a menos que tal software,firmware, ou código seja explicitamente sujeito a esta Licença. O uso de tal 
+software, firmware, ou código é sujeito a termos e condições de licenças 
+aplicáveis.
+
+3. Cópia, modificação, comunicação ao público e distribuição da Documentação  
+
+3.1. O Licenciado deve manter intactas todas as notas de marcas registradas
+e de direito autoral, todas as notas referentes a localização da Documentação,
+e todas as notas que fazem menção a esta Licença e declaração de isenção de 
+garantias que estão incluídas na documentação. Ele deve incluir uma cópia 
+desta Licença em toda a cópia da Documentação ou, se for o caso, Documentação 
+modificada comunicada ao público ou distribuida. 
+
+3.2. O Licenciado pode usar, copiar, comunicar ao público e distribuir cópias
+literais da Documentação em qualquer mídia, estando sujeito aos requerimentos
+especificados na seção 3.1.
+
+3.3. O Licenciado pode modificar a Documentação ou qualquer porção desta,
+sendo que, uma vez feita a modificação à Documentação, o Licenciado deve
+tornar a Documentação modificada disponível através da Localização da 
+Documentação de forma que ela possa ser encontrada facilmente pelo
+Licenciador original assim que o Licenciado comunicar ao público ou 
+distribuir a Documentação modificada com base na seção 3.4. e quando
+requirido pela seção 4.1., pelo recipiente de um Produto. Entretanto,
+o Licenciador não deve afirmar seus direitos em provisões futuras 
+a menos que, ou até que um Produto seja distribuído.
+
+3.4. O Licenciado pode comunicar ao público e distribuir a Documentação
+modificada (e, desta forma, tornar-se um Licenciador além de ser um 
+Licenciado), disposto sempre que:
+
+a) Observe a seção 3.1.;
+
+b) faça com que a Documentação carregue notas destacadas declarando que
+o Licenciado modificou a Documentação, com a data e a descrição das 
+modificações;
+
+c) faça com que a Documentação modificada disponha de uma nova nota com
+a Localização da Documentação, se o Documentação original possuir uma;
+
+d) torne disponível a Documentação modificada com o mesmo nível de 
+abstração encontrada na Documentação, no formato preferido para fazer 
+modificações (por exemplo, o formato nativo de uma ferramenta de CAD, 
+se aplicável), e, caso o formato seja proprietário, em um formato 
+visível por uma ferramenta licenciada sob uma licença aprovada pela 
+Open Source Initiative (OSI), se a ferramenta proprietária puder
+gerá-la; e
+
+e) licencie a Documentação modificada sob os mesmos termos em condições
+desta licença ou, quando aplicável, uma versão mais recente desta Licença
+que possa vir a ser publicada pelo CERN.
+
+3.5. A Licença inclui a licença não-exclusiva às patentes ou designs 
+registrados de posse, ou que estejam sob controle, ou que seja sub-licenciáveis
+pelo Licenciador à medida necessária para fazer uso dos direitos concedidos 
+sob esta Licença. O escopo desta seção 3.5. deve ser estritamente limitado às
+partes da Documentação ou Documentação modificada criado pelo Licenciador.
+
+4. Fabricação e distribuição de Produtos 
+
+4.1. O Licenciado pode fabricar ou distribuir Produtos dado sempre que,
+quando tal fabricação e distribuição exija uma licença sob esta Licença,
+o Licenciado forneça para cada recipiente de tais Produtos uma forma 
+fácil de acessar a cópia da Documentação ou Documentação modificada, tal
+como seja aplicável conforme descrito na seção 3.
+
+4.2. O Licenciado é convidado a informar qualquer Licenciador que tenha 
+indicado seu desejo de receber esta informação sobre o tipo, a quantidade 
+e as datas de produção dos Produtos que o Licenciado está fabricando ou 
+tenha fabricado.
+
+5. Garantia e Responsabilidade
+
+5.1. AVISO - A Documentação ou qualquer Documentação modificada são
+providas "tal como estão" presentemente e quaisquer garantias expressas 
+ou implícitas, incluindo mas não limitadas às garantias de potencial 
+comercial, qualidade satisfatória, não-infração de direitos de terceiros, 
+ou adequação para um propósito ou uso particular estão isentos de 
+responsabilidade com respeito à Documentação, a Documentação modificada ou 
+qualquer Produto. O Licenciador não faz nenhuma afirmação de que a Documentação,Documentação modificada, ou qualquer Produto possa ou não infringir, ou vir a 
+infringir qualquer patente, direito autoral, segredo industrial ou qualquer 
+direito de propriedade. Todo o risco quanto ao uso, qualidade e desempenho de 
+um Produto deverá estar com o Licenciado e não com o Licenciador. Esta aviso de isenção de responsabilidade é uma parte essencial desta Licença e uma condição 
+para a concessão de qualquer direito sob esta Licença. O Licenciado garante 
+que não atua na capacidade de consumidor.
+
+5.2. LIMITAÇÕES DE RESPONSABILIDADE - O Licenciador não deverá ter nenhuma 
+responsabilidade por danos diretos, indiretos, especiais, acidentais, 
+consequentes, exemplares, punitivos de qualquer natureza incluindo, sem 
+limitação, a aquisição de bens ou serviços substitutos, perda de dados, lucros 
+ou relativa ao uso, ou a interrupção de negócios, de qualquer forma causadas e 
+em qualquer teoria de contrato, garantia, agravo (incluindo negligência), 
+responsabilidade do produto ou outros casos, proveniente de qualquer maneira 
+em relação à Documentação, Documentação modificada e/ou pelo uso, fabricação ou 
+distribuição de um Produto, mesmo se advertido da possibilidade de tais danos, 
+e o Licenciado deverá deixar o(s) Licenciador(es) livre(s) e sem risco(s) de 
+qualquer responsabilidade, custos, danos, taxas e gastos, incluindo 
+reivindicações de terceiros em relação a tal uso.
+
+6. Geral
+
+6.1. Exceto para os direitos explicitamente outorgados aqui, esta Licença não 
+implica ou representa nenhuma transferência ou atribuição de direitos de 
+propriedade intelectual para o Licenciado.
+
+6.2. O Licenciado não deve usar ou fazer referências a quaisquer nomes 
+(incluindo siglas e abreviações), imagens e logos através dos quais o 
+Licenciador é conhecido, salvo e conforme seja requirido para o cumprimento da 
+seção 3. Qualquer uso permitido ou referência deve ser factual e não deve 
+em nenhum momento sugerir algum tipo de endosso da Documentação modificada ou
+qualquer Produto, ou qualquer tipo de implicação do Licenciador ou de seu
+pessoal na preparação da Documentação modificada ou Produto.
+
+6.3. O CERN pode publicar versões atualizadas desta Licença a qual reterá as
+mesmas disposições gerais desta versão, mas diferir em detalhes tanto quanto 
+seja requerido e razoável. Novas versões serão publicadas sob um único número 
+de versão.
+
+6.4. Esta Licença deverá ser terminada com efeito imediato, sob notificação 
+escrita e sem envolvimento judicial se o Licenciado faltar no cumprimento de 
+quaisquer de seus termos e condições, ou se o Licenciado iniciar ação legal 
+contra o Licenciador em relação a esta Licença. A seção 5 continuará em vigor.
+
+# Histórico das Traduções
+
+26/10/2016 Tradução da versão 1.2 realizada por Luis Felipe R. Murillo.
+
+27/02/2013 Tradução da versão 1.1 realizada por Tatiana Pereda e revisada por
+Rafael Pezzi.
