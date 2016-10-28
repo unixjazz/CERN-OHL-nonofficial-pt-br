@@ -1,6 +1,11 @@
 # CERN-OHL-pt-br
 
-Tradução não-oficial para o Português da CERN Open Hardware License.
+Esta é uma tradução não-oficial para o Português da licença de Hardware Aberto
+do CERN. Esta versão serve **apenas de referência** não para utilização. Se
+você deseja utilizar esta licença em seus projetos, por favor empregue a versão 
+original da licença disponível no repositório oficial através do endereço:
+
+Versão original: [http://www.ohwr.org/licenses/cern-ohl/v1.2]
 
 ## Histórico das Traduções
 
