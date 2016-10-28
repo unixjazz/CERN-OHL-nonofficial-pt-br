@@ -4,7 +4,8 @@ Versão original: [http://www.ohwr.org/licenses/cern-ohl/v1.2]
 
 This is an unofficial Portuguese translation of the CERN Open Hardware License. 
 This version **is intended for reference only**, not for actual use. If you 
-want to license your projects using it, please use the official license providedin the official repository of the CERN OHL in the link above.
+want to license your projects using it, please use the official license provided
+in the official repository of the CERN OHL in the link above.
 
 Esta é uma tradução não-oficial para o Português da licença de Hardware Aberto
 do CERN. Esta versão serve **apenas de referência** não para utilização. Se
@@ -76,7 +77,8 @@ direitos de licença ou conceder sub-licenças.
 
 2.3. Esta Licença não se extende ao software, firmware, ou código carregado em
 dispositivos programáveis que podem ser utilizados em conjunto com a 
-Documentação, Documentação modificada ou com Produtos, a menos que tal software,firmware, ou código seja explicitamente sujeito a esta Licença. O uso de tal 
+Documentação, Documentação modificada ou com Produtos, a menos que tal software,
+firmware, ou código seja explicitamente sujeito a esta Licença. O uso de tal 
 software, firmware, ou código é sujeito a termos e condições de licenças 
 aplicáveis.
 
@@ -155,10 +157,12 @@ ou implícitas, incluindo mas não limitadas às garantias de potencial
 comercial, qualidade satisfatória, não-infração de direitos de terceiros, 
 ou adequação para um propósito ou uso particular estão isentos de 
 responsabilidade com respeito à Documentação, a Documentação modificada ou 
-qualquer Produto. O Licenciador não faz nenhuma afirmação de que a Documentação,Documentação modificada, ou qualquer Produto possa ou não infringir, ou vir a 
+qualquer Produto. O Licenciador não faz nenhuma afirmação de que a Documentação,
+Documentação modificada, ou qualquer Produto possa ou não infringir, ou vir a 
 infringir qualquer patente, direito autoral, segredo industrial ou qualquer 
 direito de propriedade. Todo o risco quanto ao uso, qualidade e desempenho de 
-um Produto deverá estar com o Licenciado e não com o Licenciador. Esta aviso de isenção de responsabilidade é uma parte essencial desta Licença e uma condição 
+um Produto deverá estar com o Licenciado e não com o Licenciador. Esta aviso de 
+isenção de responsabilidade é uma parte essencial desta Licença e uma condição 
 para a concessão de qualquer direito sob esta Licença. O Licenciado garante 
 que não atua na capacidade de consumidor.
 
